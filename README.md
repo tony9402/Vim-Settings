@@ -15,9 +15,11 @@ vim에 플러그인을 깔면 작업효율이 더 좋아지므로 얼른 세팅�
 
 1. [nanotech/jellybean.vim](https://github.com/nanotech/jellybeans.vim)
 2. [majutsushi/tagbar](https://github.com/majutsushi/tagbar)
+
     ctags을 깔아야 함 (brew install --HEAD universal-ctags/universal-ctags/universal-ctags)
 3. [scrooloose/nerdtree](https://github.com/preservim/nerdtree)
     단축키 설정을 추가로 함 
+
     E -> NERDTreeToggle
 4. [nathanaelkane/vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides)
     IndentGuidesToggle(단축키 설정 안함)
