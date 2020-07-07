@@ -36,5 +36,36 @@ vim에 플러그인을 깔면 작업효율이 더 좋아지므로 얼른 세팅�
 13. [SirVer/ultisnips](https://github.com/ultisnips)
 14. [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 
+## Customermize Snippets
+
+#### 현재 만든 Snippet
+
+1. Main
+2. SegmentTree Class
+3. Euclid Functions
+
+Snippet 변경 위치
+```bash
+/Users/$USER/.vim/plugged/vim-snippets/snippets/
+```
+
+#### Snippet 설정 방법
+```vim
+snippet ma
+    include<bits/stdc++.h>
+ 
+     #define all(x) (x).begin(),(x).end()
+     using namespace std;
+     typedef long long ll;
+     typedef pair<int, int> pii;
+     ll MOD = 1e9 + 7;
+ 
+     int main(){
+         ios::sync_with_stdio(false); cin.tie(0);
+         ${0}
+         return 0;
+     }
+```
+
 ## Customermize Theme
 
