@@ -36,7 +36,5 @@ vim에 플러그인을 깔면 작업효율이 더 좋아지므로 얼른 세팅�
 13. [SirVer/ultisnips](https://github.com/ultisnips)
 14. [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 
-## 현재 설정된 vim
-
-
+## Customermize Theme
 
