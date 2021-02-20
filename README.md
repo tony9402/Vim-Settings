@@ -2,6 +2,46 @@
 
 [![Vim](https://img.shields.io/badge/version-v8.2-brightgreen)](#)
 
+## Useful Link
+
+1. Simple Vim Guide
+ - [link](https://github.com/johngrib/simple_vim_guide)
+2. nanotech/jellybeans.vim
+ - [link](https://github.com/nanotech/jellybeans.vim)
+3. preservim/tagbar
+ - [link](https://github.com/preservim/tagbar)
+4. scrooloose/nerdtree
+ - [link](https://github.com/preservim/nerdtree)
+5. Xuyuanp/nerdtree-git-plugin
+ - [link](https://github.com/Xuyuanp/nerdtree-git-plugin)
+6. nathanaelkane/vim-indent-guides
+ - [link](https://github.com/nathanaelkane/vim-indent-guides)
+7. airblade/vim-gitgutter
+ - [link](https://github.com/airblade/vim-gitgutter)
+8. tpope/vim-fugitive
+ - [link](https://github.com/tpope/vim-fugitive)
+9. vim-airline/vim-airline
+ - [link](https://github.com/vim-airline/vim-airline)
+10. vim-airline/vim-airline-themes
+ - [link](https://github.com/vim-airline/vim-airline-themes)
+11. blueyed/vim-diminactive
+ - [link](https://github.com/blueyed/vim-diminactive)
+12. junegunn/vim-easy-align
+ - [link](https://github.com/junegunn/vim-easy-align)
+13. Valloric/YouCompleteMe
+ - [link](https://github.com/ycm-core/YouCompleteMe)
+14. honza/vim-snippets
+ - [link](https://github.com/honza/vim-snippets)
+15. SirVer/ultisnips
+ - [link](https://github.com/SirVer/ultisnips)
+16. terryma/vim-multiple-cursors
+ - [link](https://github.com/terryma/vim-multiple-cursors)
+17. shime/vim-livedown
+ - [link](https://github.com/shime/vim-livedown)
+18. wakatime/vim-wakatime
+ - [link](https://github.com/wakatime/vim-wakatime)
+
+
 ### My .vimrc
 
 ```
